@@ -1,0 +1,21 @@
+{
+  "name": "kilabuild",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kilabuild": "index.js"
+  },
+  "author": "guren_d",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "async": "^2.6.1",
+    "multer": "^1.4.1",
+    "request": "^2.88.0",
+    "unzip": "^0.1.11"
+  }
+}
